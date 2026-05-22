@@ -29,7 +29,12 @@ A modern Android To-Do List application built using Kotlin and XML as part of th
 
 ## 📱 Screenshots
 
-(Add your app screenshots here)
+<img width="357" height="796" alt="image" src="https://github.com/user-attachments/assets/6ae31b31-74c6-4a7c-8154-cdac8d126454" />
+<img width="351" height="799" alt="image" src="https://github.com/user-attachments/assets/765fa689-0078-41af-8d7e-c4d7098db4e2" />
+<img width="356" height="795" alt="image" src="https://github.com/user-attachments/assets/943274ef-91eb-4b32-98f0-b0771990284a" />
+
+
+
 
 ---
 
